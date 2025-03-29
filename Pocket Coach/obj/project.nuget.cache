@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6kLMbjOSybY=",
+  "dgSpecHash": "BsfkBgZQV/0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\maahi\\source\\repos\\Pocket Coach\\Pocket Coach.csproj",
+  "projectFilePath": "C:\\Users\\maahi\\GitHub Repository\\Pocket-Coach\\Pocket Coach\\Pocket Coach.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maahi\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\maahi\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",

@@ -33167,11 +33167,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\maahi\\source\\repos\\Pocket Coach\\Pocket Coach.csproj",
+      "projectUniqueName": "C:\\Users\\maahi\\GitHub Repository\\Pocket-Coach\\Pocket Coach\\Pocket Coach.csproj",
       "projectName": "Pocket Coach",
-      "projectPath": "C:\\Users\\maahi\\source\\repos\\Pocket Coach\\Pocket Coach.csproj",
+      "projectPath": "C:\\Users\\maahi\\GitHub Repository\\Pocket-Coach\\Pocket Coach\\Pocket Coach.csproj",
       "packagesPath": "C:\\Users\\maahi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\maahi\\source\\repos\\Pocket Coach\\obj\\",
+      "outputPath": "C:\\Users\\maahi\\GitHub Repository\\Pocket-Coach\\Pocket Coach\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

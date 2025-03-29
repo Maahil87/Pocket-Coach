@@ -8,7 +8,7 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Pocket_Coach
-build_property.ProjectDir = C:\Users\maahi\source\repos\Pocket Coach\
+build_property.ProjectDir = C:\Users\maahi\GitHub Repository\Pocket-Coach\Pocket Coach\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTAotOptimizerEnabled = true
@@ -22,31 +22,37 @@ build_property.CsWinRTUseWindowsUIXamlProjections = false
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/maahi/source/repos/Pocket Coach/App.xaml]
+[C:/Users/maahi/GitHub Repository/Pocket-Coach/Pocket Coach/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Pocket_Coach.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/maahi/source/repos/Pocket Coach/AppShell.xaml]
+[C:/Users/maahi/GitHub Repository/Pocket-Coach/Pocket Coach/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Pocket_Coach.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/maahi/source/repos/Pocket Coach/Home.xaml]
+[C:/Users/maahi/GitHub Repository/Pocket-Coach/Pocket Coach/BaseSpendingPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Pocket_Coach.BaseSpendingPage.xaml
+build_metadata.AdditionalFiles.TargetPath = BaseSpendingPage.xaml
+build_metadata.AdditionalFiles.RelativePath = BaseSpendingPage.xaml
+
+[C:/Users/maahi/GitHub Repository/Pocket-Coach/Pocket Coach/Home.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Pocket_Coach.Home.xaml
 build_metadata.AdditionalFiles.TargetPath = Home.xaml
 build_metadata.AdditionalFiles.RelativePath = Home.xaml
 
-[C:/Users/maahi/source/repos/Pocket Coach/Resources/Styles/Colors.xaml]
+[C:/Users/maahi/GitHub Repository/Pocket-Coach/Pocket Coach/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Pocket_Coach.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/maahi/source/repos/Pocket Coach/Resources/Styles/Styles.xaml]
+[C:/Users/maahi/GitHub Repository/Pocket-Coach/Pocket Coach/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Pocket_Coach.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml

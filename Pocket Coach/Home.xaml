@@ -2,5 +2,90 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Pocket_Coach.Home"
-             Title="Home">
+             BackgroundColor="#216543" NavigationPage.HasNavigationBar="False" Title="Welcome!">
+    <ScrollView>
+        <StackLayout Padding="0">
+            <!--//Balances Frame-->
+            <Frame BackgroundColor="White" 
+                   BorderColor="#cccccc" 
+                   CornerRadius="10" 
+                   HasShadow="True" 
+                   Padding="10" Margin="20,10">
+                <StackLayout>
+                    <Label Text="Your Balances" 
+                        FontSize="Header" 
+                        FontAttributes="Bold" 
+                        TextColor="Black" 
+                        HorizontalOptions="Start"
+                        Margin="0,0,0,10" FontAutoScalingEnabled="False"/>
+                    <StackLayout Orientation="Horizontal" Spacing="10">
+                        <Image Source="card_image_placeholder.png" 
+                           WidthRequest="150" 
+                           HeightRequest="100" 
+                           Aspect="AspectFill"/>
+                        <StackLayout VerticalOptions="CenterAndExpand">
+                            <Label Text="Card Name / Account Type" 
+                               FontSize="Small" 
+                               FontAttributes="Bold" 
+                               TextColor="#333" />
+                            <Label Text="Balance: £1234.56" 
+                               FontSize="Medium" 
+                               TextColor="#333" />
+                        </StackLayout>
+                    </StackLayout>
+                </StackLayout>
+            </Frame>
+            <StackLayout BackgroundColor="#20493F">
+                    <!--Widgets Frame-->
+            <Frame BackgroundColor="#153D31" 
+               BorderColor="#487061" 
+               CornerRadius="40" 
+               HasShadow="True" 
+               Padding="10"
+               Margin="20,10">
+                <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand">
+                    <Image Source="widget_icon1.png" WidthRequest="50" HeightRequest="50" Aspect="AspectFill">
+                        <Image.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped"/>
+                        </Image.GestureRecognizers>
+                    </Image>
+                </StackLayout>
+            </Frame>
+            <!-- Financial Twin Image Section -->
+            <StackLayout Margin="20,0,20,20">
+                <Frame Padding="40" CornerRadius="15" Margin="0,0,0,0" BackgroundColor="#216543">
+                    <StackLayout>
+                        <Label Text="Financial Twin" TextColor="Black" FontSize="24" HorizontalOptions="Center" />
+                        <Image Source="financial_twin_image.png" HeightRequest="200" HorizontalOptions="Center" />
+                    </StackLayout>
+                </Frame>
+            </StackLayout>
+                <!-- Recent Transactions -->
+            <Frame BackgroundColor="#153D31" Margin="20,0,0,0" CornerRadius="40" BorderColor="#487061">
+                <ScrollView>
+                    <StackLayout>
+                        <StackLayout Padding="10,0,10,10">
+                        <Label Text="Recent Transactions"
+                        FontSize="Header"
+                        FontAttributes="Bold"
+                        TextColor="White"
+                        HorizontalOptions="Start"
+                        VerticalOptions="Start"/>
+                    </StackLayout>
+                    <Frame Padding="10" BorderColor="#487061" BackgroundColor="White" CornerRadius="10" Margin="5">
+                        <StackLayout Orientation="Horizontal" Spacing="10">
+                            <Image Source="card_image_placeholder.png" WidthRequest="50" HeightRequest="50" />
+                            <StackLayout>
+                                <Label Text="Amazon Purchase" FontSize="16" TextColor="Black" />
+                                <Label Text="March 20, 2025" FontSize="12" TextColor="Gray" />
+                            </StackLayout>
+                            <Label Text="- $45.99" FontSize="16" TextColor="Black" HorizontalOptions="EndAndExpand" />
+                        </StackLayout>
+                    </Frame>
+                    </StackLayout>
+                </ScrollView>
+            </Frame>
+            </StackLayout>
+        </StackLayout> 
+    </ScrollView>
 </ContentPage>

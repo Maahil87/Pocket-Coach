@@ -1,14 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\maahi\\source\\repos\\Pocket Coach\\",
+  "WorkspaceRootPath": "C:\\Users\\maahi\\GitHub Repository\\Pocket-Coach\\Pocket Coach\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D1A136CF-85FC-4892-9340-2B50180F59C6}|Pocket Coach.csproj|c:\\users\\maahi\\source\\repos\\pocket coach\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D1A136CF-85FC-4892-9340-2B50180F59C6}|Pocket Coach.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{D1A136CF-85FC-4892-9340-2B50180F59C6}|Pocket Coach.csproj|c:\\users\\maahi\\github repository\\pocket-coach\\pocket coach\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D1A136CF-85FC-4892-9340-2B50180F59C6}|Pocket Coach.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1A136CF-85FC-4892-9340-2B50180F59C6}|Pocket Coach.csproj|c:\\users\\maahi\\source\\repos\\pocket coach\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{D1A136CF-85FC-4892-9340-2B50180F59C6}|Pocket Coach.csproj|c:\\users\\maahi\\github repository\\pocket-coach\\pocket coach\\basespendingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D1A136CF-85FC-4892-9340-2B50180F59C6}|Pocket Coach.csproj|solutionrelative:basespendingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A136CF-85FC-4892-9340-2B50180F59C6}|Pocket Coach.csproj|c:\\users\\maahi\\github repository\\pocket-coach\\pocket coach\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D1A136CF-85FC-4892-9340-2B50180F59C6}|Pocket Coach.csproj|solutionrelative:home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A136CF-85FC-4892-9340-2B50180F59C6}|Pocket Coach.csproj|c:\\users\\maahi\\github repository\\pocket-coach\\pocket coach\\home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A136CF-85FC-4892-9340-2B50180F59C6}|Pocket Coach.csproj|solutionrelative:home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A136CF-85FC-4892-9340-2B50180F59C6}|Pocket Coach.csproj|c:\\users\\maahi\\github repository\\pocket-coach\\pocket coach\\transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A136CF-85FC-4892-9340-2B50180F59C6}|Pocket Coach.csproj|solutionrelative:transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A136CF-85FC-4892-9340-2B50180F59C6}|Pocket Coach.csproj|c:\\users\\maahi\\github repository\\pocket-coach\\pocket coach\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A136CF-85FC-4892-9340-2B50180F59C6}|Pocket Coach.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A136CF-85FC-4892-9340-2B50180F59C6}|Pocket Coach.csproj|c:\\users\\maahi\\github repository\\pocket-coach\\pocket coach\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A136CF-85FC-4892-9340-2B50180F59C6}|Pocket Coach.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A136CF-85FC-4892-9340-2B50180F59C6}|Pocket Coach.csproj|c:\\users\\maahi\\github repository\\pocket-coach\\pocket coach\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{D1A136CF-85FC-4892-9340-2B50180F59C6}|Pocket Coach.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A136CF-85FC-4892-9340-2B50180F59C6}|Pocket Coach.csproj|c:\\users\\maahi\\github repository\\pocket-coach\\pocket coach\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A136CF-85FC-4892-9340-2B50180F59C6}|Pocket Coach.csproj|solutionrelative:appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,33 +46,120 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\maahi\\source\\repos\\Pocket Coach\\App.xaml",
-              "RelativeDocumentMoniker": "App.xaml",
-              "ToolTip": "C:\\Users\\maahi\\source\\repos\\Pocket Coach\\App.xaml",
-              "RelativeToolTip": "App.xaml",
+              "Title": "BaseSpendingPage.xaml",
+              "DocumentMoniker": "C:\\Users\\maahi\\GitHub Repository\\Pocket-Coach\\Pocket Coach\\BaseSpendingPage.xaml",
+              "RelativeDocumentMoniker": "BaseSpendingPage.xaml",
+              "ToolTip": "C:\\Users\\maahi\\GitHub Repository\\Pocket-Coach\\Pocket Coach\\BaseSpendingPage.xaml",
+              "RelativeToolTip": "BaseSpendingPage.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-25T19:29:00.754Z",
+              "WhenOpened": "2025-03-29T20:15:58.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Transactions.cs",
+              "DocumentMoniker": "C:\\Users\\maahi\\GitHub Repository\\Pocket-Coach\\Pocket Coach\\Transactions.cs",
+              "RelativeDocumentMoniker": "Transactions.cs",
+              "ToolTip": "C:\\Users\\maahi\\GitHub Repository\\Pocket-Coach\\Pocket Coach\\Transactions.cs",
+              "RelativeToolTip": "Transactions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T23:57:50.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\maahi\\GitHub Repository\\Pocket-Coach\\Pocket Coach\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\maahi\\GitHub Repository\\Pocket-Coach\\Pocket Coach\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T21:52:58.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\maahi\\GitHub Repository\\Pocket-Coach\\Pocket Coach\\Home.xaml.cs",
+              "RelativeDocumentMoniker": "Home.xaml.cs",
+              "ToolTip": "C:\\Users\\maahi\\GitHub Repository\\Pocket-Coach\\Pocket Coach\\Home.xaml.cs",
+              "RelativeToolTip": "Home.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T20:12:53.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.xaml",
+              "DocumentMoniker": "C:\\Users\\maahi\\GitHub Repository\\Pocket-Coach\\Pocket Coach\\Home.xaml",
+              "RelativeDocumentMoniker": "Home.xaml",
+              "ToolTip": "C:\\Users\\maahi\\GitHub Repository\\Pocket-Coach\\Pocket Coach\\Home.xaml",
+              "RelativeToolTip": "Home.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-25T19:54:00.173Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\maahi\\source\\repos\\Pocket Coach\\MainPage.xaml",
-              "RelativeDocumentMoniker": "MainPage.xaml",
-              "ToolTip": "C:\\Users\\maahi\\source\\repos\\Pocket Coach\\MainPage.xaml",
-              "RelativeToolTip": "MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\maahi\\GitHub Repository\\Pocket-Coach\\Pocket Coach\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "C:\\Users\\maahi\\GitHub Repository\\Pocket-Coach\\Pocket Coach\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-25T19:28:49.384Z",
+              "WhenOpened": "2025-03-25T19:54:22.533Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\maahi\\GitHub Repository\\Pocket-Coach\\Pocket Coach\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\maahi\\GitHub Repository\\Pocket-Coach\\Pocket Coach\\AppShell.xaml.cs",
+              "RelativeToolTip": "AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T20:04:24.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\maahi\\GitHub Repository\\Pocket-Coach\\Pocket Coach\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\maahi\\GitHub Repository\\Pocket-Coach\\Pocket Coach\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-25T19:29:00.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\maahi\\GitHub Repository\\Pocket-Coach\\Pocket Coach\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\maahi\\GitHub Repository\\Pocket-Coach\\Pocket Coach\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T19:54:08.205Z"
             }
           ]
         }

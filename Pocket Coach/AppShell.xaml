@@ -5,11 +5,12 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     xmlns:local="clr-namespace:Pocket_Coach"
     Shell.FlyoutBehavior="Disabled"
-    Title="Pocket_Coach">
-
-    <ShellContent
-        Title="Home"
-        ContentTemplate="{DataTemplate local:MainPage}"
-        Route="MainPage" />
-
+    Title="Pocket_Coach"
+    Shell.TabBarBackgroundColor="#216543"
+    Shell.TabBarTitleColor="White"
+    Shell.TabBarUnselectedColor="#B0C4B1">
+    <TabBar>
+        <ShellContent Title="Home" Icon="home.png" ContentTemplate="{DataTemplate local:Home}" />
+        <ShellContent Title="Spending" Icon="spending.png" ContentTemplate="{DataTemplate local:BaseSpendingPage}" />
+    </TabBar>
 </Shell>
