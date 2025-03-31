@@ -34,11 +34,29 @@ build_metadata.AdditionalFiles.ManifestResourceName = Pocket_Coach.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
+[C:/Users/maahi/GitHub Repository/Pocket-Coach/Pocket Coach/BaseMicroLearning.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Pocket_Coach.BaseMicroLearning.xaml
+build_metadata.AdditionalFiles.TargetPath = BaseMicroLearning.xaml
+build_metadata.AdditionalFiles.RelativePath = BaseMicroLearning.xaml
+
+[C:/Users/maahi/GitHub Repository/Pocket-Coach/Pocket Coach/BaseSavings.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Pocket_Coach.BaseSavings.xaml
+build_metadata.AdditionalFiles.TargetPath = BaseSavings.xaml
+build_metadata.AdditionalFiles.RelativePath = BaseSavings.xaml
+
 [C:/Users/maahi/GitHub Repository/Pocket-Coach/Pocket Coach/BaseSpendingPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Pocket_Coach.BaseSpendingPage.xaml
 build_metadata.AdditionalFiles.TargetPath = BaseSpendingPage.xaml
 build_metadata.AdditionalFiles.RelativePath = BaseSpendingPage.xaml
+
+[C:/Users/maahi/GitHub Repository/Pocket-Coach/Pocket Coach/BaseYourAccounts.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Pocket_Coach.BaseYourAccounts.xaml
+build_metadata.AdditionalFiles.TargetPath = BaseYourAccounts.xaml
+build_metadata.AdditionalFiles.RelativePath = BaseYourAccounts.xaml
 
 [C:/Users/maahi/GitHub Repository/Pocket-Coach/Pocket Coach/Home.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml

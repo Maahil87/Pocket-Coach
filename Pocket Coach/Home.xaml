@@ -2,15 +2,15 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Pocket_Coach.Home"
-             BackgroundColor="#216543" NavigationPage.HasNavigationBar="False" Title="Welcome!">
+             BackgroundColor="#216543" NavigationPage.HasNavigationBar="True" Title="Welcome!">
     <ScrollView>
         <StackLayout Padding="0">
             <!--//Balances Frame-->
             <Frame BackgroundColor="White" 
-                   BorderColor="#cccccc" 
+                   BorderColor="#000000" 
                    CornerRadius="10" 
                    HasShadow="True" 
-                   Padding="10" Margin="20,10">
+                   Padding="10,5,10,10" Margin="20,0,20,10">
                 <StackLayout>
                     <Label Text="Your Balances" 
                         FontSize="Header" 
